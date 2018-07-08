@@ -23,7 +23,7 @@ To start your TREZOR recovery, plug your new TREZOR into your computer and go to
 
 First of all, TREZOR will ask you how long is your recovery seed. Select the correct number and then you will be asked to enter the words in their correct order, as displayed on the screen. 
 
-If you are suing TREZOR T, the recovery seed words are entered entirely on the device through the touchscreen. Therefore, any leak of sensitive data to a potentially insecure browser or computer is avoided. 
+If you are using TREZOR T, the recovery seed words are entered entirely on the device through the touchscreen. Therefore, any leak of sensitive data to a potentially insecure browser or computer is avoided. 
 
 During the standard recovery process with TREZOR One, you will be entering the seed words on your computer. However, you can reach the same security level as with TREZOR T by enabling the  `Advanced Recovery <https://doc.satoshilabs.com/trezor-user/advancedrecovery.html>`_, which uses the on-screen input to load your recovery seed.
 
